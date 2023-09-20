@@ -20,5 +20,5 @@ Console.WriteLine($"{WeekDay} -> Суббота ");
 else if (WeekDay == "7") 
 Console.WriteLine($"{WeekDay} -> Воскресенье ");
 else
-    Console.WriteLine("Некорректно набран день недели");
+Console.WriteLine("Некорректно набран день недели");
 
