@@ -23,3 +23,4 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 
 int natural = Natural(number1, number2);
 Console.WriteLine($"{number1}, {number2} -> {natural}");
+
